@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 142
+names: ['apple', 'battercake', 'battercake_condensed_milk', 'battercakes', 'beans_bellpepper', 'beans_onions', 'beef_prunes', 'beef_sauce', 'beef_vegetables', 'berry_parfait', 'boiled_potatoes', 'borscht', 'bowtie_pesto', 'breakfast_cutlet', 'breakfast_meat', 'broccoli', 'broccoli_vegetables', 'buckwheat', 'buckwheat_mushrooms', 'buckwheat_vegetables', 'bulgur', 'bulgur_corn', 'butter', 'cabbage_roll', 'cabbage_soup', 'caesar', 'cake', 'casserole', 'cauliflower', 'cauliflower_vegetables', 'cheese', 'cheesecake', 'chicken', 'chicken_bellpepper', 'chicken_cheese', 'chicken_cheese_tomatoes', 'chicken_crackers', 'chicken_cutlet', 'chicken_cutlet_breading', 'chicken_cutlet_cheese', 'chicken_cutlet_eggs', 'chicken_filet', 'chicken_kebab', 'chicken_pancake', 'chicken_pesto', 'cocoa', 'compote', 'condensed_milk', 'corn', 'corn_porridge', 'cottage_cheese', 'couscous', 'cucumbers', 'cutlet', 'cutlet_cheese', 'dumplings', 'egg', 'filet_carrots', 'filet_mushrooms', 'filet_mustard', 'fish_cheese', 'fish_egg', 'fish_soup', 'fricassee', 'goulash', 'grapefruit', 'honey', 'kharcho', 'lasagna', 'liver_pancakes', 'lula_kebab', 'meatball', 'millet', 'noodle_soup', 'noodles', 'nut_condensed_milk', 'oatmeal', 'oatmeal_water', 'olivier', 'olivier_beef', 'omelette', 'orange', 'pancake', 'pasta', 'pasta_bowtie', 'pasta_pesto', 'pear', 'pear_parfait', 'pilaf', 'pilaf_bulgur', 'pollock', 'pork_roast', 'potatoes_cream', 'pumpkin_porridge', 'puree', 'ratatouille', 'rice', 'rice_porridge', 'rice_vegetables', 'roast', 'salad', 'salad_beef', 'salad_beetroot', 'salad_broccoli', 'salad_cabbage', 'salad_cabbage_bellpepper', 'salad_cabbage_tomatoes', 'salad_chicken', 'salad_corn', 'salad_crabsticks', 'salad_cucumbers_cabbage', 'salad_feta', 'salad_metropolitan', 'salad_radish', 'salad_turkey', 'salad_vitamins', 'sausage', 'saute', 'semolina', 'soup_broccoli', 'soup_cheese', 'soup_meatballs', 'soup_pumpkin', 'soup_puree_vegetables', 'soup_vegetables', 'sourcream', 'spaghetti', 'spaghetti_tomato', 'spinach_soup', 'spring_salad', 'sprouts', 'steamed_pumpkin', 'steamed_rice', 'stew', 'stewed_cabbage', 'stewed_potatoes', 'tangerine', 'tea', 'vegetable_soup', 'vegetables', 'yoka', 'zucchini_tomatoes']
+
+roboflow:
+  workspace: bv-xsmgn
+  project: my-first-project-wh1jf
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/bv-xsmgn/my-first-project-wh1jf/dataset/1
